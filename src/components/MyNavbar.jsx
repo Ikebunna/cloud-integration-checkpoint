@@ -1,7 +1,7 @@
 import Container from "react-bootstrap/Container";
-import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 
+// nav bar component
 function MyNavbar() {
   return (
     <Navbar className="shadow-lg p-3 mb-5  rounded">
