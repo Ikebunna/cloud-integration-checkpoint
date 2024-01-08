@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+
+  text-align: center;
+  background-image: linear-gradient(to right, #10313f, #264451);
+  color: white;
+}
+
+.logo--img {
+  width: 200px;
+  height: 100%;
+  /* box-shadow: 20px; */
+}
